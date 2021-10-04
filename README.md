@@ -9,3 +9,13 @@ stepin embedded project
 4. Led Actuator shows the driver is sited
 5. Heater will check the heater button is ON.
 6. Temp to CAN shows the value of temperature gone over protoco
+
+Folder	Description
+1_Requirement	Documents detailing requirements and research
+2_Design	Documents specifying design details
+3_Implementation	All code and documentation
+4_TestPlanAndOutput	Documents with test plans and procedures
+5_Report	Project Report
+6_ImagesAndVideos	Project output and videos
+Folder Structure
+
