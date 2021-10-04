@@ -19,5 +19,5 @@ stepin embedded project
 |4\_TestPlanAndOutput|Documents with test plans and procedures|
 |5\_Report|Project Report|
 |6\_ImagesAndVideos|Project output and videos|
-Folder Structure
+
 
