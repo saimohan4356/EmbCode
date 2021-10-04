@@ -10,7 +10,7 @@ stepin embedded project
 5. Heater will check the heater button is ON.
 6. Temp to CAN shows the value of temperature gone over protoco
 
-##Folder Structure
+## Folder Structure
 |**Folder**|**Description**|
 | :- | :- |
 |1\_Requirement|Documents detailing requirements and research|
